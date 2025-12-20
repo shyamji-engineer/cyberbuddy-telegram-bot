@@ -153,6 +153,6 @@ What is SQL injection?
 ## 🧠 Memory Example
 
 ```
-My name is Shyam.
+My name is xyz.
 Do you remember my name?
 ```
